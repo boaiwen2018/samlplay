@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @Controller
-@RequestMapping(value = "/saml")
+@RequestMapping(value = "/daxin")
 public class SamlController {
 
     @RequestMapping(value = "/play")

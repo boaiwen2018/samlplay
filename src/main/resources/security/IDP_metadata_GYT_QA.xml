@@ -1,0 +1,57 @@
+F<md:EntityDescriptor entityID="gene.com" cacheDuration="PT1440M" ID="VQnogN_SNCKbj_hOpbupc.awMmQ" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference URI="#VQnogN_SNCKbj_hOpbupc.awMmQ">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+<ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>JTIl0+g8i1L170O3PFcUmKHns5tY5IyP/7myhfZ80CE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>
+sQZSU0Laq6y7gPjOMPl4otnvYX2uoq70I4Tu/729iSgzblrUeInrspehRO5SXue/iG+Y5TlRnk3W
+Lo6aHK3eTHaaHbgDNhLnhjLkM2NDPtYDTWTHds/4uQ3xXCZJxKe+F3gxaPuYBtxT/QBiWSnD2BjG
+4muAZ7Euru4qUN3FLHOejPDPjr23Wq7tltIHeZ9T37L2Ie+s3DJ6F/FgXIAxlMwsBwsYi5Grjh/9
+2jdibDXLpAEzaHTnqwtEO2nUtYLNbPn9qS6TpjWfgI7cTFLUefRRrHT+JrQehyHFxM2ibftKNec9
+47CymAIpDPZP39kflIwf3+kaDXlckFztYZV9Fg==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIID2jCCAsICCQCZacx4y70SUTANBgkqhkiG9w0BAQsFADCBrjELMAkGA1UEBhMCQ0gxDjAMBgNV
+BAgTBUJhc2VsMQ4wDAYDVQQHEwVCYXNlbDEgMB4GA1UEChMXRi4gSG9mZm1hbm4tTGEgUm9jaGUg
+QUcxEDAOBgNVBAsTB0FNUy1XQUMxGTAXBgNVBAMTEFJvY2hlIEZlZGVyYXRpb24xMDAuBgkqhkiG
+9w0BCQEWIWdsb2JhbC53ZWJhY2Nlc3Njb250cm9sQHJvY2hlLmNvbTAeFw0xNzAzMDMwODExMTZa
+Fw0yNzAzMDEwODExMTZaMIGuMQswCQYDVQQGEwJDSDEOMAwGA1UECBMFQmFzZWwxDjAMBgNVBAcT
+BUJhc2VsMSAwHgYDVQQKExdGLiBIb2ZmbWFubi1MYSBSb2NoZSBBRzEQMA4GA1UECxMHQU1TLVdB
+QzEZMBcGA1UEAxMQUm9jaGUgRmVkZXJhdGlvbjEwMC4GCSqGSIb3DQEJARYhZ2xvYmFsLndlYmFj
+Y2Vzc2NvbnRyb2xAcm9jaGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuXf6
+aAs5SdwSC/zch54EdNeyvGQkYuGPHzjL4V0dpGLlWH+lwcdSTdeud35+Q+0th3rMphqEzWFsCIV/
+fvEz88b7gwegAnm83td4aQaa903kHBtj7wgk/6ETIY3/b5R4R5up2uz5hH+aUuDSObUFUY9F7/rJ
+Z2fYqrSiAd65BnolEtsyB58dgouj8KLV1ydRbPlGoDLaBS2cE/B/bbcIbeT9lCz/RT7kd3fxXIuh
+24ko6TeRKUtSeYotb+QEuGV3LT8VAVsBzObAhe6zi6kcQVlNIJJhk/AUJRy1VHBO0fOEKvd4wqQF
+/u6CStuUPFOv16+zlO9qoehDog6aju7/0wIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQAV3UzlmERb
+Q3gqgMp24RYIFnYETWKZ5/s++83ZNjK1iNlekA6EIPnlCq5KxF77zlOckgMiTNuzoe/E8APeNWOV
+EuZqbozZJymXAneKMRIetEDqK+qkT02iH9WMxxmm3iFAa/JpJa0Wp+O54EyL5sWmqqinN8Zigx4z
+DA0ubRNr5tCREHigr3WVL31cqWF9wpUV9wulq+HGSWG4dPJrzsBpwzKzQuleuZZk9ukErWbkSegF
+Iwk2afKpWGS6LmTLJkkQcK+g6AEVkdj1mYFancsKYRvS1yV5SF9VcWc6zIyYMC9ww4cfnmJn2PRg
+VlfE5HLi3Fw0k6zdzWkNwpzkxfyI
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uXf6aAs5SdwSC/zch54EdNeyvGQkYuGPHzjL4V0dpGLlWH+lwcdSTdeud35+Q+0th3rMphqEzWFs
+CIV/fvEz88b7gwegAnm83td4aQaa903kHBtj7wgk/6ETIY3/b5R4R5up2uz5hH+aUuDSObUFUY9F
+7/rJZ2fYqrSiAd65BnolEtsyB58dgouj8KLV1ydRbPlGoDLaBS2cE/B/bbcIbeT9lCz/RT7kd3fx
+XIuh24ko6TeRKUtSeYotb+QEuGV3LT8VAVsBzObAhe6zi6kcQVlNIJJhk/AUJRy1VHBO0fOEKvd4
+wqQF/u6CStuUPFOv16+zlO9qoehDog6aju7/0w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+</ds:Signature><md:IDPSSODescriptor protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIID2jCCAsICCQCZacx4y70SUTANBgkqhkiG9w0BAQsFADCBrjELMAkGA1UEBhMCQ0gxDjAMBgNVBAgTBUJhc2VsMQ4wDAYDVQQHEwVCYXNlbDEgMB4GA1UEChMXRi4gSG9mZm1hbm4tTGEgUm9jaGUgQUcxEDAOBgNVBAsTB0FNUy1XQUMxGTAXBgNVBAMTEFJvY2hlIEZlZGVyYXRpb24xMDAuBgkqhkiG9w0BCQEWIWdsb2JhbC53ZWJhY2Nlc3Njb250cm9sQHJvY2hlLmNvbTAeFw0xNzAzMDMwODExMTZaFw0yNzAzMDEwODExMTZaMIGuMQswCQYDVQQGEwJDSDEOMAwGA1UECBMFQmFzZWwxDjAMBgNVBAcTBUJhc2VsMSAwHgYDVQQKExdGLiBIb2ZmbWFubi1MYSBSb2NoZSBBRzEQMA4GA1UECxMHQU1TLVdBQzEZMBcGA1UEAxMQUm9jaGUgRmVkZXJhdGlvbjEwMC4GCSqGSIb3DQEJARYhZ2xvYmFsLndlYmFjY2Vzc2NvbnRyb2xAcm9jaGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuXf6aAs5SdwSC/zch54EdNeyvGQkYuGPHzjL4V0dpGLlWH+lwcdSTdeud35+Q+0th3rMphqEzWFsCIV/fvEz88b7gwegAnm83td4aQaa903kHBtj7wgk/6ETIY3/b5R4R5up2uz5hH+aUuDSObUFUY9F7/rJZ2fYqrSiAd65BnolEtsyB58dgouj8KLV1ydRbPlGoDLaBS2cE/B/bbcIbeT9lCz/RT7kd3fxXIuh24ko6TeRKUtSeYotb+QEuGV3LT8VAVsBzObAhe6zi6kcQVlNIJJhk/AUJRy1VHBO0fOEKvd4wqQF/u6CStuUPFOv16+zlO9qoehDog6aju7/0wIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQAV3UzlmERbQ3gqgMp24RYIFnYETWKZ5/s++83ZNjK1iNlekA6EIPnlCq5KxF77zlOckgMiTNuzoe/E8APeNWOVEuZqbozZJymXAneKMRIetEDqK+qkT02iH9WMxxmm3iFAa/JpJa0Wp+O54EyL5sWmqqinN8Zigx4zDA0ubRNr5tCREHigr3WVL31cqWF9wpUV9wulq+HGSWG4dPJrzsBpwzKzQuleuZZk9ukErWbkSegFIwk2afKpWGS6LmTLJkkQcK+g6AEVkdj1mYFancsKYRvS1yV5SF9VcWc6zIyYMC9ww4cfnmJn2PRgVlfE5HLi3Fw0k6zdzWkNwpzkxfyI</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat><md:SingleSignOnService Location="https://b2bqa.roche.com/idp/SSO.saml2" Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST"/><md:SingleSignOnService Location="https://b2bqa.roche.com/idp/SSO.saml2" Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect"/><saml:Attribute NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" Name="CompanyCode" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion"/><saml:Attribute NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic" Name="User ID" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion"/></md:IDPSSODescriptor><md:ContactPerson contactType="administrative"><md:Company>Genentech Inc.,</md:Company><md:GivenName>IAM-DFS</md:GivenName><md:EmailAddress>GLOORG_SAS-AMS-Web-Access-Services-Comms@msxdl.roche.com</md:EmailAddress></md:ContactPerson></md:EntityDescriptor>
